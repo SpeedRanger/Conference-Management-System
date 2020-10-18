@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mime-types": "^2.1.27",
+    "plagiarism-checker": "^1.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
